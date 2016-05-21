@@ -3,6 +3,7 @@ CMakeFiles
 .csettings/
 *.so
 *.dll
+*.dll.a
 *.dylib
 Makefile
 cmake_install.cmake
